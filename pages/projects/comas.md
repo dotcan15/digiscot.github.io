@@ -20,7 +20,7 @@ permalink: /projects/comas/
 
 Dot Can will help disadvantaged people to use online resources, communicate online and access services and support they need. Dot Can will reduce isolation, empower people and reduce barriers to full participation in society.
 
-
+<iframe width="640" height="390" src="https://www.youtube.com/embed/5zGoWzJC_vA" frameborder="0" allowfullscreen></iframe>
 
 ## Project Milestones
 
